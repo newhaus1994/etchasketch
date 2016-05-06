@@ -1,1 +1,2 @@
-# etchasketch
+# etchasketch 
+# Project: Javascript/JQuery
