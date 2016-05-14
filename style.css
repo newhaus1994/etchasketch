@@ -1,0 +1,29 @@
+#container {
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	padding: none;
+	position: relative;
+}
+.inner {
+	float: left;
+	border: none;
+	width: 6%;
+	height: 6%;
+}
+
+.newColor {
+	float: left;
+	border: none;
+	width: 6%;
+	height: 6%;
+	background-color: red;
+}
+
+.break {
+	clear: both;
+}
+
+button {
+	float: top;
+}
